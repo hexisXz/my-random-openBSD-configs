@@ -1,0 +1,51 @@
+Googleᛝhttps://www.google.com/ᛡ17.5
+GitHub - PureDarwin/PureDarwin: Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.ᛝhttps://github.com/PureDarwin/PureDarwinᛡ5.0
+Invidiousᛝhttps://iv.ggtyler.dev/feed/popularᛡ4.75
+What is Emacs? | Opensource.comᛝhttps://opensource.com/resources/what-emacsᛡ4.75
+Top (Programming in Emacs Lisp)ᛝhttps://www.gnu.org/software/emacs/manual/html_node/eintr/ᛡ4.75
+OpenBSD · GitHubᛝhttps://github.com/openbsdᛡ4.0
+Home · PureDarwin/PureDarwin Wiki · GitHubᛝhttps://github.com/PureDarwin/PureDarwin/wikiᛡ4.0
+Watching youtube inside Emacs 25! : r/emacsᛝhttps://www.reddit.com/r/emacs/comments/4srze9/watching_youtube_inside_emacs_25/?rdt=43477ᛡ3.5
+GitHub - freebsd/freebsd-src: The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....ᛝhttps://github.com/freebsd/freebsd-srcᛡ3.5
+EXWM - ArchWikiᛝhttps://wiki.archlinux.org/title/EXWMᛡ3.25
+Lisp Lists (Programming in Emacs Lisp)ᛝhttps://www.gnu.org/software/emacs/manual/html_node/eintr/Lisp-Lists.htmlᛡ3.25
+How to write your first Linux Kernel Module | by Ruan de Bruyn | DVT Software Engineering | Mediumᛝhttps://medium.com/dvt-engineering/how-to-write-your-first-linux-kernel-module-cf284408beebᛡ3.25
+Search Youtube with w3m or Emacs eww using Invidious - YouTubeᛝhttps://www.youtube.com/watch?v=tW77tqwZ7dgᛡ2.5
+Error - Invidiousᛝhttps://iv.ggtyler.dev/watch?v=jPkIaqSh3cAᛡ2.5
+emacs - Invidiousᛝhttps://iv.ggtyler.dev/search?q=emacsᛡ2.5
+Invidious Instances - Invidious Documentationᛝhttps://docs.invidious.io/instances/ᛡ2.5
+Invidious - An open source alternative front-end to YouTubeᛝhttps://invidious.io/ᛡ2.5
+Emacs Desktop Environment #1 - Getting Started with EXWM - YouTubeᛝhttps://www.youtube.com/watch?v=f7xB2fFk1tQᛡ2.5
+How to play Youtube videos from Emacs? : r/emacsᛝhttps://www.reddit.com/r/emacs/comments/rfuoeq/how_to_play_youtube_videos_from_emacs/ᛡ2.5
+Where / How to learn Elisp? : r/emacsᛝhttps://www.reddit.com/r/emacs/comments/ghgwor/where_how_to_learn_elisp/ᛡ2.5
+List Processing (Programming in Emacs Lisp)ᛝhttps://www.gnu.org/software/emacs/manual/html_node/eintr/List-Processing.htmlᛡ2.5
+GitHub - chrisdone-archive/elisp-guide: A quick guide to Emacs Lisp programmingᛝhttps://github.com/chrisdone-archive/elisp-guideᛡ2.25
+Error - Invidiousᛝhttps://iv.ggtyler.dev/watch?v=Ph8M8ThBgPc&list=PLknodeJt-I5GJmcd7ENakYf_M0x9q50d1&index=3ᛡ2.0
+Emacs - Invidiousᛝhttps://iv.ggtyler.dev/playlist?list=PLknodeJt-I5GJmcd7ENakYf_M0x9q50d1ᛡ2.0
+GitHub - PureDarwin/PureDarwin: Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.ᛝhttps://github.com/PureDarwin/PureDarwin?tab=readme-ov-fileᛡ2.0
+Luke's Webpageᛝhttps://lukesmith.xyz/ᛡ1.75
+Luke Smith - YouTubeᛝhttps://www.youtube.com/c/lukesmithxyzᛡ1.75
+GNU Emacs - GNU Projectᛝhttps://www.gnu.org/software/emacs/ᛡ1.75
+GitHub - squiter/ivy-youtube: Search for an Youtube video inside Emacs with Ivyᛝhttps://github.com/squiter/ivy-youtubeᛡ1.75
+DOOM | DOS games in browserᛝhttps://dos.zone/doom-dec-1993/ᛡ1.75
+help - How can I start learning Emacs Lisp? - Emacs Stack Exchangeᛝhttps://emacs.stackexchange.com/questions/47318/how-can-i-start-learning-emacs-lispᛡ1.75
+Elisp: Print, Outputᛝhttp://xahlee.info/emacs/emacs/elisp_printing.htmlᛡ1.75
+Evaluating Emacs Lisp code (GNU Emacs FAQ)ᛝhttps://www.gnu.org/software/emacs/manual/html_node/efaq/Evaluating-Emacs-Lisp-code.htmlᛡ1.75
+elisp - Writing "Hello World" in Emacs? - Stack Overflowᛝhttps://stackoverflow.com/questions/2170528/writing-hello-world-in-emacsᛡ1.75
+Programming in Emacs Lisp - How To Write Function Definitionsᛝhttps://www.math.utah.edu/docs/info/emacs-lisp-intro_4.htmlᛡ1.75
+The Linux Kernel Module Programming Guideᛝhttps://sysprog21.github.io/lkmpg/ᛡ1.75
+Linux Kernel Module Programming: Hello World Program - GeeksforGeeksᛝhttps://www.geeksforgeeks.org/linux-kernel-module-programming-hello-world-program/ᛡ1.75
+Arch Linux - linux-headers 6.10.10.arch1-1 (x86_64)ᛝhttps://archlinux.org/packages/core/x86_64/linux-headers/ᛡ1.75
+Building External Modules — The Linux Kernel documentationᛝhttps://docs.kernel.org/kbuild/modules.htmlᛡ1.75
+GitHub - openbsd/src: Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.ᛝhttps://github.com/openbsd/srcᛡ1.75
+PureDarwin/APPLE_LICENSE.txt at main · PureDarwin/PureDarwin · GitHubᛝhttps://github.com/PureDarwin/PureDarwin/blob/main/APPLE_LICENSE.txtᛡ1.75
+Google Code Archive - Long-term storage for Google Code Project Hosting.ᛝhttps://code.google.com/archive/p/puredarwinᛡ1.75
+Xmas · PureDarwin/PureDarwin Wiki · GitHubᛝhttps://github.com/PureDarwin/PureDarwin/wiki/Xmasᛡ1.75
+Chapter 10. Configuring the FreeBSD Kernel | FreeBSD Documentation Portalᛝhttps://docs.freebsd.org/en/books/handbook/kernelconfig/ᛡ1.75
+Can I compile a FreeBSD kernel from Linux? | The FreeBSD Forumsᛝhttps://forums.freebsd.org/threads/can-i-compile-a-freebsd-kernel-from-linux.64582/ᛡ1.75
+make - Building a custom FreeBSD kernel - Unix & Linux Stack Exchangeᛝhttps://unix.stackexchange.com/questions/705356/building-a-custom-freebsd-kernelᛡ1.75
+OpenBSD FAQ: Building the System from Sourceᛝhttps://www.openbsd.org/faq/faq5.htmlᛡ1.75
+Error - Invidiousᛝhttps://iv.ggtyler.dev/watch?v=aUliKw3ZpoAᛡ1.5
+Playing YouTube Videos in Emacs | Irrealᛝhttps://irreal.org/blog/?p=10905ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=ARpgrqcjnvQH79yCEenJdDVt9OSbkon0U9VJqrT4nQ05DWewZHeFoV0xAqrvA5a7X-gwLahVt0SmEA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S791270222%3A1726335715460081&ddm=1ᛡ1.5
+GitHub - chrisdone-archive/elisp-guide: A quick guide to Emacs Lisp programmingᛝhttps://github.com/chrisdone-archive/elisp-guide?tab=readme-ov-fileᛡ1.5
